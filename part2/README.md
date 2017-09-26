@@ -27,7 +27,7 @@ In action `show_details`, [line 27](./MobileController.rb#L27), the parameter `q
 The recomendation is to parameterize and sanitize any string before injecting it into other strings.
 
 
-#Note
+# Note
 
 Usually an advisory will come with much more information such as:
 
